@@ -1,0 +1,20 @@
+{
+  "name": "main_sih",
+  "version": "1.0.0",
+  "description": "This repository contains a lightweight **MVP** for a Digital Guidance Platform (web + backend). It provides: - A simple Express backend that serves APIs for colleges, quizzes, and timelines (JSON files). - A minimal React frontend that consumes those APIs and demonstrates:   - Quiz flow (aptitude & interest)   - Nearby government colleges directory (static JSON)   - Dashboard and timeline placeholders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

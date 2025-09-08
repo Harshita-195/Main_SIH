@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "Aptitude & Interest Quiz",
+    "description": "Short quiz to map student interests to recommended streams."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which activity do you enjoy most?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solving science/math problems",
+          "value": "science"
+        },
+        {
+          "id": "b",
+          "text": "Reading literature or writing",
+          "value": "arts"
+        },
+        {
+          "id": "c",
+          "text": "Working with numbers and accounts",
+          "value": "commerce"
+        },
+        {
+          "id": "d",
+          "text": "Practical/skill-based projects",
+          "value": "vocational"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "What kind of classes do you prefer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Physics/Chemistry/Biology",
+          "value": "science"
+        },
+        {
+          "id": "b",
+          "text": "History/Political Science",
+          "value": "arts"
+        },
+        {
+          "id": "c",
+          "text": "Economics/Business Studies",
+          "value": "commerce"
+        },
+        {
+          "id": "d",
+          "text": "Computer Applications/Workshops",
+          "value": "vocational"
+        }
+      ]
+    }
+  ]
+}

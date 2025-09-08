@@ -1,0 +1,42 @@
+[
+  {
+    "id": "govcol1",
+    "name": "Govt. Degree College - North",
+    "city": "Ghaziabad",
+    "programs": [
+      "B.A.",
+      "B.Sc.",
+      "B.Com."
+    ],
+    "cutoffs": {
+      "B.A.": 60,
+      "B.Sc.": 65
+    },
+    "hostel": false,
+    "medium": "Hindi/English",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Internet"
+    ]
+  },
+  {
+    "id": "govcol2",
+    "name": "Govt. College of Science",
+    "city": "Ghaziabad",
+    "programs": [
+      "B.Sc.",
+      "BCA"
+    ],
+    "cutoffs": {
+      "B.Sc.": 70
+    },
+    "hostel": true,
+    "medium": "English",
+    "facilities": [
+      "Labs",
+      "Research Centre",
+      "Library"
+    ]
+  }
+]
